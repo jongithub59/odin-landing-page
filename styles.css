@@ -1,0 +1,180 @@
+.header {
+	display: flex;
+	flex: 1;
+	background-color: #121212; 
+	align-items: center; 
+	position: sticky;
+	width: 100%;
+}
+
+
+.logo {
+	object-fit: fill;
+	max-height: 70px;
+	max-width: 70px;
+	border: black solid 2px;
+	margin: 5px auto;
+}
+
+.title {
+	font-weight: bold;
+	font-size: 30px;
+	margin-right: auto;
+}
+
+#search {
+	margin: auto;
+	background-color: rgb(34, 34, 34);
+	border: none;
+	padding: 10px;
+	min-width: 1300px;
+	min-height: 30px;
+}
+
+input:focus {
+	color: #fff;
+	font-family: Poppins, arial;
+	font-size: 20px;
+}
+
+input::placeholder {
+	font-family: Poppins, arial;
+	font-size: 20px;
+}
+
+.nav {
+	display: flex;
+	padding: 1px;
+	margin-left: auto;
+}
+
+.nav a {
+	padding: 15px;
+	font-size: 24px;
+	color: #E5E7EB; 
+	font-weight: extra-bold;
+	font-family: roboto, arial;
+	cursor: pointer;
+}
+
+a:hover {
+	background-color: rgba(255,255,255,.05);
+	transform: scale(1.01);
+}
+
+.god-header {
+	display: flex;
+	margin: 50px auto;
+	align-items: center;
+	justify-content: center;
+	max-width: 700px;
+	background-color: rgb(34, 34, 34);
+	padding: 0;
+	border-radius: 5px;
+}
+
+.hero {
+	font-family: poppins, arial;
+	display: flex;
+	flex-direction: column;
+	padding: 0;
+	margin: 1px 50px 1px 1px;
+	
+}
+
+.hero-text {
+	text-align: center;
+}
+
+.hero h1 {
+	font-size: 50px;
+	margin-bottom: -20px;
+}
+
+.god-image {
+	border: solid black 4px;
+	object-fit: fill;
+	min-width: 275px;
+}
+
+.content {
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	background-color: rgb(34, 34, 34);
+	max-width: 1000px;
+	margin: 50px auto 0px;
+	border-radius: 5px;
+}
+
+.god-build {
+	display: flex;
+	padding: 0;
+	margin-top: 0;
+}
+
+.god-build img {
+	border: solid black 5px;
+	margin: 10px; 
+}
+
+.god-build p {
+	text-align: center;
+
+}
+
+ul {
+	list-style-type: none;
+
+}
+
+.quote {
+	margin: 0 auto;
+	justify-content: center;
+	min-height: 50px;
+	font-style: italic;
+}
+
+span {
+	display: block;
+	text-align: right;
+}
+
+body {
+	background-image: url("background.jpg");
+	background-size: 100%;
+	box-sizing: inherit;
+	font-family: Poppins, arial;
+	color: #fff;
+	image-rendering: -webkit-optimize-contrast;
+	margin: 0;
+}
+
+footer {
+	margin: 0 auto;
+	align-items: center;
+	flex-direction: column;
+	justify-content: center;
+	text-align: center;
+
+}
+
+button {
+	appearance: auto;
+	border-radius: 5px;
+	border: #fff solid 1px;
+	background-color: transparent;
+	color: #fff;
+	padding: 10px;
+	cursor: pointer;
+	margin: 15px;
+}
+
+button:hover {
+	background-color: rgba(255,255,255,.05);
+	transform: scale(1.01);
+}
+
+.copyright {
+	font-size: 10px;
+}

@@ -1,1 +1,2 @@
 # odin-landing-page
+this was a short project meant to use the skills of flexbox and basic CSS. This project tool me two sessions to complete with a few roadblocks that helped sharpen up my knowledge flexbox and CSS to a basic level. also for forgot to commit as I go so this is the mostly completed project.
