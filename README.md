@@ -1,2 +1,5 @@
-# odin-landing-page
-this was a short project meant to use the skills of flexbox and basic CSS. This project tool me two sessions to complete with a few roadblocks that helped sharpen up my knowledge flexbox and CSS to a basic level. also for forgot to commit as I go so this is the mostly completed project.
+# Landing Page
+
+Live preview [here](https://jongithub59.github.io/odin-landing-page/)
+
+This was a short project meant to showcase the skills of flexbox and basic CSS. This project taught me how to use flexbox to position elements, style elements and images in an aesthetic way, and otherwise helped me sharpen up my flexbox and CSS knowledge to a basic level to make things look aesthetically pleasing.
